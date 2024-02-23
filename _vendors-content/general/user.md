@@ -1,4 +1,4 @@
----
+Tecno 20c
 manufacturer:
     - general
 ---
